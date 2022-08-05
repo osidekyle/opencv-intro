@@ -11,3 +11,5 @@ opencv-python-foreground-extraction-tutorial.jpg
 opencv-corner-detection-sample.jpg
 opencv-feature-matching-image.jpg
 opencv-feature-matching-template.jpg
+haarcascade_eye.xml
+haarcascade_frontalface_default.xml
